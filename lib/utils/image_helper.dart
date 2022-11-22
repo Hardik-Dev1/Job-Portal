@@ -1,3 +1,3 @@
 class ImageHelper {
-  static String inn = "assets/images/home_banner.jpg";
+  static String homeBanner = "assets/images/home_banner.jpg";
 }
